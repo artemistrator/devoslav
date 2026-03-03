@@ -1,0 +1,49 @@
+### OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+### Node / TypeScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+### Next.js / build artifacts
+.next/
+.vercel/
+.turbo/
+
+dist/
+build/
+coverage/
+
+### Env files
+.env
+.env.local
+.env.development*
+.env.production*
+.env.test*
+.env.*.local
+!.env.example
+
+### Logs
+*.log
+logs/
+ai-orchestrator/logs/
+
+### Cursor / Codex / tooling
+.cursor/
+.codex/
+terminals/
+agent-transcripts/
+mcps/
+
+### Misc
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
