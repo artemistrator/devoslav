@@ -1,3 +1,4 @@
+![Devoslav dashboard](https://github.com/artemistrator/devoslav/blob/main/docs/logo-w.png) 
 # AI Orchestrator
 
 **AI-powered project management and development automation system that transforms ideas into structured development plans.**
