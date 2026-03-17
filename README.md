@@ -65,6 +65,14 @@ Devoslav is an experimental AI-assisted software orchestration workbench built w
 - The MCP layer is narrow today; it is closer to a task/status bridge than a full general-purpose MCP server.
 - The RAG/indexing layer is lightweight. It stores files, chunks, embeddings, and parsed entities, but it is not a full code intelligence platform.
 
+##Screenshots
+Main page
+![Devoslav dashboard](https://github.com/artemistrator/devoslav/blob/main/docs/Group%201%20(2).png) 
+Plan page
+![Devoslav dashboard](https://github.com/artemistrator/devoslav/blob/main/docs/Group%202%20(3).png) 
+Tasks and execute page
+![Devoslav dashboard](https://github.com/artemistrator/devoslav/blob/main/docs/Group%203.png) 
+
 ## How To Run Locally
 
 ### Option A: Docker Compose
